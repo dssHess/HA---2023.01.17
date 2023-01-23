@@ -1,0 +1,19 @@
+Erstelle ein kleines Formular mit Text- und Inputfeldern mit HTML. 
+Lade anschießend mit JavaScript Daten von einem freien Server (https://jsonplaceholder.typicode.com/) 
+und ersetze die Inhalte der Input- und Textfelder mit den Daten, 
+die vom Server zurückgegeben werden. Nutze als Beispiel die bereits vorhandene Source Code, 
+der im Unterricht behandelt wurde (einsehbar auf Github). 
+
+Konkrete Aufgaben:
+Erstelle ein HTML mit Input-Felder und Text-Felder
+Binde ein externes JavaScript File ein
+Rufe die Daten vom Server ab
+Behandle das Promise und verarbeite die Daten, wenn sie bereit stehen
+Ersetze die alten Inhalte der Input- und Text-Felder durch die neuen Werte, die vom Server kommen
+
+
+Kleiner Hinweis: 
+Wenn ihr euch auf der Website von jsonplaceholder befindet, könnt ihr etwas weiter unten die "Resources" finden und sehen, 
+welche Arten von Daten ihr abrufen könnt. Sucht euch eines davon aus und nutzt fleißig das console.log() 
+- es wird euch dabei helfen zu verstehen, wie die Daten aussehen. :)
+
